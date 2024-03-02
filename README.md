@@ -1,16 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Facebook Page</title>
-</head>
-<body>
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<h1 align="center">Hi 👋, I'm Tuong Vi</h1>
+<p align="center">
+  <h3 align="center"> 
+    I am a student at UIT and studying information system 
+  </h3>
+</p>
 
-    <h1>Welcome to My Facebook Page</h1>
+- ✍ I'm a student
 
-    <p>Visit my Facebook profile:</p>
-    <a href="https://www.facebook.com/tuongvi.phanthi.5205/" target="_blank">My Facebook</a>
+<br />
 
-</body>
-</html>
+## Skills:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+</p>
+
+## Information:
+- [Facebook](https://www.facebook.com/tuongvi.phanthi.5205/)
